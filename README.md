@@ -26,9 +26,13 @@
 ## 🚀 Demo
 ![Demo](https://github.com/HarshDekate/Note-App-/blob/main/Note-App.gif)
 
-<!-- Live -->
-## 🚀 Demo
-![Live](https://harshdekate.github.io/Note-App-/)
+## 🌐 Live Demo
+You can experience the app live by visiting the following link:
+
+[Live Demo](https://harshdekate.github.io/Note-App-/)
+
+Feel free to explore and interact with the app to get a hands-on experience.
+
 
 <!-- Usage -->
 ## 📋 Usage
