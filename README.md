@@ -24,7 +24,7 @@
 
 <!-- Demo -->
 ## 🚀 Demo
-![Demo](https://github.com/HarshDekate/Note-App-/blob/main/Note-App.gif), (https://harshdekate.github.io/Note-App-/)
+![Demo](https://github.com/HarshDekate/Note-App-/blob/main/Note-App.gif,https://harshdekate.github.io/Note-App-/)
 
 <!-- Usage -->
 ## 📋 Usage
