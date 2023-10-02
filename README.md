@@ -5,50 +5,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Note App</title>
     <style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 0 auto;
-        max-width: 800px;
-        padding: 20px;
-    }
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0 auto;
+            max-width: 800px;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
 
-    h1 {
-        color: #333;
-    }
+        h1 {
+            color: #333;
+            background-color: #2a9d8f;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
 
-    h2 {
-        color: #555;
-    }
+        h2 {
+            color: #2a9d8f;
+            margin-top: 20px;
+        }
 
-    p {
-        color: #666;
-    }
+        p {
+            color: #444;
+        }
 
-    ul, ol {
-        color: #777;
-        padding-left: 20px;
-    }
+        ul, ol {
+            color: #555;
+            padding-left: 20px;
+        }
 
-    code {
-        background-color: #f4f4f4;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-        padding: 4px 6px;
-    }
+        code {
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+            padding: 4px 6px;
+        }
 
-    pre {
-        background-color: #f4f4f4;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-        margin: 10px 0;
-        overflow: auto;
-        padding: 10px;
-    }
-</style>
+        pre {
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+            margin: 10px 0;
+            overflow: auto;
+            padding: 10px;
+        }
 
+        .btn {
+            background-color: #2a9d8f;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #00796b;
+        }
+    </style>
 </head>
 <body>
     <h1>Your Note App</h1>
@@ -103,5 +123,9 @@
     
     <h2>Contact</h2>
     <p>If you have any questions or suggestions, feel free to contact me at your@email.com.</p>
+
+    <div style="text-align: center;">
+        <a href="https://github.com/yourusername/your-note-app" class="btn">View on GitHub</a>
+    </div>
 </body>
 </html>
