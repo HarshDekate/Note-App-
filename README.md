@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/github/forks/HarshDekate/Note-App.svg" alt="GitHub forks">
     <img src="https://img.shields.io/travis/HarshDekate/Note-App.svg" alt="Build Status">
     <img src="https://img.shields.io/codecov/c/github/HarshDekate/Note-App.svg" alt="Code Coverage">
-    <img src="https://img.shields.io/david/HarshDekate/Note-App.svg" alt="Dependencies">
 </p>
 
 <!-- Description -->
@@ -25,7 +24,7 @@
 
 <!-- Demo -->
 ## 🚀 Demo
-![Demo](https://harshdekate.github.io/Note-App-/)
+![Demo](https://github.com/HarshDekate/Note-App-/blob/main/Note-App.gif), (https://harshdekate.github.io/Note-App-/)
 
 <!-- Usage -->
 ## 📋 Usage
