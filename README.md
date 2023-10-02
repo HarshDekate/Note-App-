@@ -4,12 +4,12 @@
 <!-- Badges -->
 <p align="center">
     <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg" alt="Made with love">
-    <img src="https://img.shields.io/github/license/yourusername/your-note-app.svg" alt="License">
-    <img src="https://img.shields.io/github/stars/yourusername/your-note-app.svg" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/yourusername/your-note-app.svg" alt="GitHub forks">
-    <img src="https://img.shields.io/travis/yourusername/your-note-app.svg" alt="Build Status">
-    <img src="https://img.shields.io/codecov/c/github/yourusername/your-note-app.svg" alt="Code Coverage">
-    <img src="https://img.shields.io/david/yourusername/your-note-app.svg" alt="Dependencies">
+    <img src="https://img.shields.io/github/license/HarshDekate/Note-App.svg" alt="License">
+    <img src="https://img.shields.io/github/stars/HarshDekate/Note-App.svg" alt="GitHub stars">
+    <img src="https://img.shields.io/github/forks/HarshDekate/Note-App.svg" alt="GitHub forks">
+    <img src="https://img.shields.io/travis/HarshDekate/Note-App.svg" alt="Build Status">
+    <img src="https://img.shields.io/codecov/c/github/HarshDekate/Note-App.svg" alt="Code Coverage">
+    <img src="https://img.shields.io/david/HarshDekate/Note-App.svg" alt="Dependencies">
 </p>
 
 <!-- Description -->
@@ -25,7 +25,7 @@
 
 <!-- Demo -->
 ## 🚀 Demo
-![Demo](demo.gif)
+![Demo](https://harshdekate.github.io/Note-App-/)
 
 <!-- Usage -->
 ## 📋 Usage
