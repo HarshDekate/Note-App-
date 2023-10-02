@@ -5,10 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Note App</title>
     <style>
-        /* Add your CSS styles here */
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
             margin: 0 auto;
             max-width: 800px;
             padding: 20px;
@@ -16,16 +14,12 @@
         }
 
         h1 {
-            color: #333;
-            background-color: #2a9d8f;
-            padding: 10px;
-            border-radius: 5px;
+            color: #2a9d8f;
             text-align: center;
         }
 
         h2 {
             color: #2a9d8f;
-            margin-top: 20px;
         }
 
         p {
@@ -43,16 +37,6 @@
             border-radius: 4px;
             font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
             padding: 4px 6px;
-        }
-
-        pre {
-            background-color: #f4f4f4;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-            margin: 10px 0;
-            overflow: auto;
-            padding: 10px;
         }
 
         .btn {
@@ -87,7 +71,7 @@
     <p>Follow these steps to use the app:</p>
     <ol>
         <li>Clone the repository to your local machine:</li>
-        <pre><code>git clone https://github.com/yourusername/your-note-app.git</code></pre>
+        <code>git clone https://github.com/yourusername/your-note-app.git</code>
         
         <li>Open the project folder.</li>
         
@@ -104,16 +88,16 @@
         <li>Fork the repository.</li>
         
         <li>Clone your forked repository to your local machine:</li>
-        <pre><code>git clone https://github.com/yourusername/your-note-app.git</code></pre>
+        <code>git clone https://github.com/yourusername/your-note-app.git</code>
         
         <li>Create a new branch for your feature or bug fix:</li>
-        <pre><code>git checkout -b feature-or-bug-fix</code></pre>
+        <code>git checkout -b feature-or-bug-fix</code>
         
         <li>Make your changes and commit them:</li>
-        <pre><code>git commit -m "Your meaningful commit message"</code></pre>
+        <code>git commit -m "Your meaningful commit message"</code>
         
         <li>Push your changes to your forked repository:</li>
-        <pre><code>git push origin feature-or-bug-fix</code></pre>
+        <code>git push origin feature-or-bug-fix</code>
         
         <li>Create a pull request on the original repository.</li>
     </ol>
